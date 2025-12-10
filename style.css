@@ -201,7 +201,7 @@ p {
 
 /* PROFILE IMAGE TEAM SECTION */
 .profile-img {
-  width: 150px;
+  width: 120px;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
@@ -285,5 +285,6 @@ footer {
     margin-left: 10px;
   }
 }
+
 
 
